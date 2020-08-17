@@ -1,0 +1,14 @@
+C:\Users\Sebastian\source\repos\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.exe.config
+C:\Users\Sebastian\source\repos\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.exe
+C:\Users\Sebastian\source\repos\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.pdb
+C:\Users\Sebastian\source\repos\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.xml
+C:\Users\Sebastian\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.vbprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Form1.resources
+C:\Users\Sebastian\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Resources.resources
+C:\Users\Sebastian\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Print.resources
+C:\Users\Sebastian\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.vbproj.GenerateResource.cache
+C:\Users\Sebastian\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.vbproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.exe
+C:\Users\Sebastian\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.xml
+C:\Users\Sebastian\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.pdb
+C:\Users\Sebastian\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Audio.resources
